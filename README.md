@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi 👋 I'm DevOps Engineer with 20+ years expierece from Russia
+I create CI and CD for my company and sometime do pet projects.
 
-<!--
-**bearchik/bearchik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm worinking with: 
+- Linux/Solaris
+- Kubernetes
+- Scylla(Cassandra), Postgresql, MySQL
+- Cloudera Hadoop
+- Ansible(Molecula)
+- Python and Java
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center"><img src="https://github-readme-stats-five-lyart.vercel.app/api?username=bearchik&show_icons=true" alt="gargakshit" /> </p>
