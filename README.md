@@ -1,4 +1,4 @@
-### Hi 👋 I'm DevOps Engineer with 20+ years expierece from Russia
+### Hi 👋 I'm DevOps Engineer with 20+ years expierece
 I create CI and CD for my company and sometime do pet projects. I am big assembler fan but i need more 24 hours per day for all.
 
 I'm worinking with: 
@@ -7,6 +7,7 @@ I'm worinking with:
 - Scylla(Cassandra), Postgresql, MySQL
 - Cloudera Hadoop
 - Ansible(Molecula)
+- ELK
 - Python and Java, Assembler
 
 
